@@ -3,9 +3,6 @@ Q.1) A table below shows a sample dataset of whether a customer responds to the 
     Construct a Decision tree classifier for the dataset. For a new example ( Rural, semidetached, low, No) 
     what will be the predicted class.
 
-
-![Table 4.1](/Images/Table_4.1.png)
-
 Q.2) Brifly explain Bagging and Boosting of the Classfiers
 
 Q.3) Define Classification, Issues of Classification and Explain ID3 classfication with example.
